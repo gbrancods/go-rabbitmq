@@ -1,7 +1,7 @@
 ### Running rabbitmq examples, send and receive messages
 
 #### How to Run:
-Firtly, up the rabbit-mq container, inside third_part/rabbitmq run:
+Firstly, up the rabbit-mq container, inside third_part/rabbitmq run:
 ~~~
 docker-compose up -d
 ~~~
